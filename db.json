@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vastrado Cotton Slim Fit Shirt",
+      "price": 999,
+      "image": "https://www.vastrado.com/cdn/shop/files/MS7267A_1.jpg?v=1755850713",
+      "description": "Premium cotton slim-fit shirt with full sleeves.",
+      "category": "Men"
+    },
+    {
+      "id": 2,
+      "name": "Vastrado Linen Casual Kurta",
+      "price": 1199,
+      "image": "https://www.vastrado.com/cdn/shop/files/MS6652A_1.jpg?v=1744906183",
+      "description": "Breathable linen kurta with minimal detailing.",
+      "category": "Men"
+    },
+    {
+      "id": 3,
+      "name": "Vastrado Printed Shirt",
+      "price": 899,
+      "image": "https://www.vastrado.com/cdn/shop/files/MS7458A_1.jpg?v=1756830743",
+      "description": "Trendy printed shirt made from lightweight cotton.",
+      "category": "Men"
+    }
+  ]
+}
